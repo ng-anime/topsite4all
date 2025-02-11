@@ -22192,7 +22192,7 @@ img,video {
 
 .text-gray-400 {
     --tw-text-opacity: 1;
-    color: rgba(156,163,175,var(--tw-text-opacity))
+    color: rgba(195, 194, 194, var(--tw-text-opacity))
 }
 
 .text-gray-500 {
@@ -22212,7 +22212,7 @@ img,video {
 
 .text-gray-800 {
     --tw-text-opacity: 1;
-    color: rgba(31,41,55,var(--tw-text-opacity))
+    color: rgba(75, 71, 71, var(--tw-text-opacity))
 }
 
 .text-gray-900 {
